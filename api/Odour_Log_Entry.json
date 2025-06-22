@@ -1,0 +1,16 @@
+{
+  "log_id": "string",
+  "user_id": "string",
+  "timestamp": "2025-06-21T23:06:27Z",
+  "FIDOL": {
+    "frequency": {"value": "recurring", "count": 3, "period_days": 7},
+    "intensity": {"scale": 4, "label": "Moderate"},
+    "duration_minutes": 30,
+    "offensiveness": ["nausea", "interfered with outdoor activities"]
+  },
+  "odour_description": {
+    "class": "sewage",
+    "subtype": "foul drains",
+    "notes": "Very unpleasant near the back garden"
+  }
+}
